@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: openweathermap-app
+
+openweathermap-starter:
+  city: Moscow
